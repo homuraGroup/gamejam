@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"expanded":true,"name":"main","order":1,"parentId":0,"scrollX":1050,"scrollY":640},
+{"id":2,"expanded":true,"name":"开始地点1","order":2,"parentId":1,"scrollX":1050,"scrollY":640},
+{"id":3,"expanded":false,"name":"初始小镇","order":3,"parentId":1,"scrollX":816,"scrollY":1280},
+{"id":4,"expanded":false,"name":"海岸","order":4,"parentId":1,"scrollX":1104,"scrollY":640}
+]
