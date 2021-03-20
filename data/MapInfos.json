@@ -7,6 +7,6 @@ null,
 {"id":5,"expanded":true,"name":"教室与城市","order":5,"parentId":0,"scrollX":656.6666666666666,"scrollY":530.6666666666666},
 {"id":6,"expanded":true,"name":"学校 走廊","order":8,"parentId":5,"scrollX":1263.3333333333333,"scrollY":520},
 {"id":7,"expanded":false,"name":"大城市","order":7,"parentId":5,"scrollX":1215.3333333333333,"scrollY":1106.6666666666667},
-{"id":8,"expanded":false,"name":"保健室","order":6,"parentId":5,"scrollX":656.6666666666666,"scrollY":530.6666666666666},
+{"id":8,"expanded":false,"name":"保健室","order":6,"parentId":5,"scrollX":728,"scrollY":409.3333333333333},
 {"id":9,"expanded":false,"name":"学校 教室","order":9,"parentId":6,"scrollX":656.6666666666666,"scrollY":530.6666666666666}
 ]
