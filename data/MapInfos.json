@@ -4,10 +4,10 @@ null,
 {"id":2,"expanded":true,"name":"开始地点1","order":2,"parentId":1,"scrollX":656.6666666666666,"scrollY":530.6666666666666},
 {"id":3,"expanded":false,"name":"初始小镇","order":3,"parentId":1,"scrollX":581.4,"scrollY":1362.6},
 {"id":4,"expanded":false,"name":"海岸","order":4,"parentId":1,"scrollX":1039.8,"scrollY":520.1999999999999},
-{"id":5,"expanded":true,"name":"教室与城市","order":5,"parentId":0,"scrollX":656.6666666666666,"scrollY":530.6666666666666},
-{"id":6,"expanded":true,"name":"学校 走廊","order":9,"parentId":5,"scrollX":581.4,"scrollY":418.2},
-{"id":7,"expanded":true,"name":"大城市","order":7,"parentId":5,"scrollX":816,"scrollY":1280},
+{"id":5,"expanded":true,"name":"教室与城市","order":5,"parentId":0,"scrollX":591,"scrollY":407.4},
+{"id":6,"expanded":true,"name":"学校 走廊","order":9,"parentId":5,"scrollX":1290.6,"scrollY":418.2},
+{"id":7,"expanded":true,"name":"大城市","order":7,"parentId":5,"scrollX":1290.6,"scrollY":682.1999999999999},
 {"id":8,"expanded":false,"name":"保健室","order":6,"parentId":5,"scrollX":591,"scrollY":407.4},
 {"id":9,"expanded":false,"name":"学校 教室","order":10,"parentId":6,"scrollX":591,"scrollY":407.4},
-{"id":10,"expanded":false,"name":"军事设施","order":8,"parentId":7,"scrollX":1386.6,"scrollY":682.1999999999999}
+{"id":10,"expanded":false,"name":"军事设施","order":8,"parentId":7,"scrollX":1095,"scrollY":1522.2}
 ]
