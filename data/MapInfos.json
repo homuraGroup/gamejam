@@ -1,12 +1,12 @@
 [
 null,
-{"id":1,"expanded":true,"name":"测试使用","order":1,"parentId":0,"scrollX":537.2727272727273,"scrollY":434.1818181818182},
-{"id":2,"expanded":true,"name":"开始地点1","order":2,"parentId":1,"scrollX":656.6666666666666,"scrollY":530.6666666666666},
-{"id":3,"expanded":false,"name":"初始小镇","order":3,"parentId":1,"scrollX":928.6666666666666,"scrollY":834.6666666666666},
-{"id":4,"expanded":false,"name":"海岸","order":4,"parentId":1,"scrollX":1039.3333333333333,"scrollY":520},
+{"id":1,"expanded":true,"name":"测试使用","order":1,"parentId":0,"scrollX":819,"scrollY":460.5},
+{"id":2,"expanded":true,"name":"开始地点1","order":2,"parentId":1,"scrollX":819,"scrollY":460.5},
+{"id":3,"expanded":false,"name":"初始小镇","order":3,"parentId":1,"scrollX":929,"scrollY":834.5},
+{"id":4,"expanded":false,"name":"海岸","order":4,"parentId":1,"scrollX":1039,"scrollY":520.5},
 {"id":5,"expanded":true,"name":"教室与城市","order":5,"parentId":0,"scrollX":656.6666666666666,"scrollY":530.6666666666666},
-{"id":6,"expanded":false,"name":"学校 走廊","order":8,"parentId":5,"scrollX":1056,"scrollY":624},
-{"id":7,"expanded":false,"name":"大城市","order":7,"parentId":5,"scrollX":1056,"scrollY":1082},
-{"id":8,"expanded":false,"name":"保健室","order":6,"parentId":5,"scrollX":656.6666666666666,"scrollY":530.6666666666666},
-{"id":9,"expanded":false,"name":"学校 教室","order":9,"parentId":6,"scrollX":656.6666666666666,"scrollY":530.6666666666666}
+{"id":6,"expanded":true,"name":"学校 走廊","order":8,"parentId":5,"scrollX":1056,"scrollY":452.5},
+{"id":7,"expanded":false,"name":"大城市","order":7,"parentId":5,"scrollX":1053,"scrollY":1347.5},
+{"id":8,"expanded":false,"name":"保健室","order":6,"parentId":5,"scrollX":728,"scrollY":409.3333333333333},
+{"id":9,"expanded":false,"name":"学校 教室","order":9,"parentId":6,"scrollX":819,"scrollY":460.5}
 ]
