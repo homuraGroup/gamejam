@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"expanded":true,"name":"main","order":1,"parentId":0,"scrollX":1050,"scrollY":640},
-{"id":2,"expanded":true,"name":"开始地点1","order":2,"parentId":1,"scrollX":926.6666666666666,"scrollY":537.3333333333334},
-{"id":3,"expanded":false,"name":"初始小镇","order":3,"parentId":1,"scrollX":916,"scrollY":1280},
-{"id":4,"expanded":false,"name":"海岸","order":4,"parentId":1,"scrollX":982.6666666666666,"scrollY":404.6666666666667}
+{"id":2,"expanded":true,"name":"开始地点1","order":2,"parentId":1,"scrollX":656.6666666666666,"scrollY":537.3333333333334},
+{"id":3,"expanded":false,"name":"初始小镇","order":3,"parentId":1,"scrollX":928.6666666666666,"scrollY":1230.6666666666667},
+{"id":4,"expanded":false,"name":"海岸","order":4,"parentId":1,"scrollX":983.3333333333334,"scrollY":526.6666666666666}
 ]
