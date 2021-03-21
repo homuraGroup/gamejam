@@ -9,25 +9,6 @@
     "height": 624,
     "icon": "icon/icon.png"
   },
-  "devDependencies": {
-    "eslint": "^7.22.0",
-    "eslint-config-prettier": "^8.0.0",
-    "eslint-plugin-json-format": "^2.0.1",
-    "eslint-plugin-prettier": "^3.3.1",
-    "husky": "^4.2.5",
-    "lint-staged": "^10.0.0-0",
-    "prettier": "^2.2.1"
-  },
-  "dependencies": {},
-  "husky": {
-    "hooks": {
-      "pre-commit": "lint-staged"
-    }
-  },
-  "lint-staged": {
-    "*.{js,jsx,ts,tsx}": [
-      "eslint --fix",
-      "git add"
-    ]
-  }
+  "devDependencies": {},
+  "dependencies": {}
 }
