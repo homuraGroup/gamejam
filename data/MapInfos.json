@@ -5,13 +5,13 @@ null,
 {"id":3,"expanded":false,"name":"初始小镇","order":3,"parentId":1,"scrollX":929.1428571428571,"scrollY":1295.142857142857},
 {"id":4,"expanded":false,"name":"海岸","order":4,"parentId":1,"scrollX":1228.8,"scrollY":894},
 {"id":5,"expanded":true,"name":"序幕","order":5,"parentId":0,"scrollX":982.8,"scrollY":552.6},
-{"id":6,"expanded":true,"name":"学校 走廊","order":8,"parentId":12,"scrollX":982.8,"scrollY":552.6},
+{"id":6,"expanded":true,"name":"学校 走廊","order":8,"parentId":12,"scrollX":981,"scrollY":547.1999999999999},
 {"id":7,"expanded":true,"name":"城市","order":11,"parentId":0,"scrollX":973.1999999999999,"scrollY":887.4},
-{"id":8,"expanded":false,"name":"保健室","order":10,"parentId":12,"scrollX":982.8,"scrollY":552.6},
-{"id":9,"expanded":false,"name":"学校 教室","order":7,"parentId":12,"scrollX":982.8,"scrollY":552.6},
+{"id":8,"expanded":false,"name":"保健室","order":10,"parentId":12,"scrollX":981,"scrollY":547.1999999999999},
+{"id":9,"expanded":false,"name":"学校 教室","order":7,"parentId":12,"scrollX":981,"scrollY":547.1999999999999},
 {"id":10,"expanded":false,"name":"军事设施","order":12,"parentId":7,"scrollX":994.8,"scrollY":894.5999999999999},
 {"id":11,"expanded":false,"name":"黄毛战斗场景","order":13,"parentId":7,"scrollX":982.8,"scrollY":552.6},
-{"id":12,"expanded":true,"name":"学校","order":6,"parentId":0,"scrollX":982.8,"scrollY":543},
+{"id":12,"expanded":true,"name":"学校","order":6,"parentId":0,"scrollX":983.4,"scrollY":537.6},
 {"id":13,"expanded":false,"name":"魔女之夜战斗场景","order":14,"parentId":7,"scrollX":973.1999999999999,"scrollY":942.5999999999999},
-{"id":14,"expanded":false,"name":"学校外","order":9,"parentId":12,"scrollX":994.8,"scrollY":894.5999999999999}
+{"id":14,"expanded":false,"name":"学校外","order":9,"parentId":12,"scrollX":995.4,"scrollY":895.1999999999999}
 ]
