@@ -8,7 +8,7 @@ null,
 {"id":6,"expanded":true,"name":"学校 走廊","order":10,"parentId":5,"scrollX":1101,"scrollY":452.5},
 {"id":7,"expanded":true,"name":"大城市","order":7,"parentId":5,"scrollX":1053,"scrollY":452.5},
 {"id":8,"expanded":false,"name":"保健室","order":6,"parentId":5,"scrollX":819,"scrollY":460.5},
-{"id":9,"expanded":false,"name":"学校 教室","order":11,"parentId":6,"scrollX":591,"scrollY":447},
+{"id":9,"expanded":false,"name":"学校 教室","order":11,"parentId":6,"scrollX":819,"scrollY":460.5},
 {"id":10,"expanded":false,"name":"军事设施","order":8,"parentId":7,"scrollX":816,"scrollY":729.5},
 {"id":11,"expanded":false,"name":"黄毛战斗场景","order":9,"parentId":7,"scrollX":811,"scrollY":460.5}
 ]
