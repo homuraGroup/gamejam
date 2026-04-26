@@ -1,0 +1,24 @@
+# RPG Maker MV collaboration settings
+
+# Treat binary assets as non-mergeable.
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+*.ogg binary
+*.m4a binary
+*.mp3 binary
+*.wav binary
+*.ttf binary
+*.otf binary
+*.rpgsave binary
+
+# RPG Maker generated data is valid JSON but semantic merges are risky.
+# Resolve these with the file owner when conflicts happen.
+data/*.json text eol=lf
+js/plugins.js text eol=lf
+*.js text eol=lf
+*.css text eol=lf
+*.html text eol=lf
+*.md text eol=lf

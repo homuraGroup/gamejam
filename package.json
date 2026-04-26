@@ -2,6 +2,9 @@
   "name": "gamejam",
   "main": "index.html",
   "js-flags": "--expose-gc",
+  "scripts": {
+    "check:data": "node -e \"const fs=require('fs'); for (const f of fs.readdirSync('data').filter(f=>f.endsWith('.json'))) JSON.parse(fs.readFileSync('data/'+f,'utf8')); console.log('data json ok')\""
+  },
   "window": {
     "title": "",
     "toolbar": false,

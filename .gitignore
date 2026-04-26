@@ -1,1 +1,7 @@
 /node_modules
+
+# Local OS/editor files
+.DS_Store
+
+# Local RPG Maker runtime saves. Existing tracked saves need `git rm --cached`.
+/save/*.rpgsave
