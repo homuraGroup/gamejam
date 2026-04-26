@@ -1,4 +1,8 @@
 # RPG Maker MV collaboration settings
+#
+# Keep text stable across Windows/macOS/Linux. Git should store and check out
+# these files with LF line endings; editors should save them as UTF-8.
+* text=auto eol=lf
 
 # Treat binary assets as non-mergeable.
 *.png binary
@@ -12,11 +16,19 @@
 *.wav binary
 *.ttf binary
 *.otf binary
+*.woff binary
+*.woff2 binary
 *.rpgsave binary
+*.rpgmvp binary
+*.rpgmvo binary
+*.rpgmvm binary
 
 # RPG Maker generated data is valid JSON but semantic merges are risky.
 # Resolve these with the file owner when conflicts happen.
-data/*.json text eol=lf
+*.json text eol=lf
+*.rpgproject text eol=lf
+*.txt text eol=lf
+*.csv text eol=lf
 js/plugins.js text eol=lf
 *.js text eol=lf
 *.css text eol=lf
